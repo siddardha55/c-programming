@@ -1,5 +1,4 @@
-#include<stdio.h>
-int main()
-{
-  printf("HELLO WORLD");
-}
+
+  print("HELLO WORLD")
+print("CHILD BRANCH")
+
